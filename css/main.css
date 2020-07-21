@@ -1,0 +1,45 @@
+.navbar-nav{
+    float: none;
+    text-align: center;
+    border-radius: 0;
+
+   
+ }
+
+  .navbar-nav li{
+    display: inline-block;
+    float: none;
+    margin-right:5%;
+      
+    
+  }
+
+.carousel-inner{
+    height: 70vh;
+    margin-top: -20px;
+}
+
+.carousel-caption{ 
+     position: absolute;
+   top:200px}
+
+  .carousel-inner img{
+    width: 100%;
+  }
+
+ .custom{
+    font-size: 4em;
+    display: block;
+    text-align: center;
+    font-family: Muli,Arial, Helvetica;
+    color: black;
+    
+  }
+
+p {
+     font-family:Muli,Times New Roman,Arial;
+     text-align:center;
+   
+}
+
+

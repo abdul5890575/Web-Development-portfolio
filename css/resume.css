@@ -1,0 +1,121 @@
+
+.navbar-nav{
+    float: none;
+    text-align: center;
+    border-radius: 0;
+   
+ }
+
+  .navbar-nav li{
+    display: inline-block;
+    float: none;
+    margin-right:5%;
+    
+}
+
+  .container{margin: 0;
+    padding: 1%;
+    width: 100%;
+    margin-top: -20px;
+    outline-color: white;
+ 
+ } 
+ 
+ div.col-sm-9{padding: 5em;}
+
+ ul.nav-pills {
+    left: 6%;
+    margin-top: 20%;
+    position: fixed;
+    text-align: center;
+    width: 12%;
+    
+  }
+div.col-sm-3{background-image: url('../images/lib.jpg');
+  background-repeat: no-repeat;
+   background-size: cover;
+min-height: 160em;
+margin-top: -1%;
+}
+
+  div.col-sm-3 img{
+    position: fixed;
+    width: 15%;
+    border-radius: 50%;
+    left:4%;
+    margin-top: 40px;
+    border:5px solid;
+    border-color: grey;
+    align-self: center;
+    
+  }
+ 
+#section1 h1{
+    font-family:Muli,Times New Roman,Arial;
+    font-size: 5em;
+    padding-left: 1%;
+    color:#673720;
+ }
+
+#section1 h4{
+     font-family:Muli,Times New Roman,Arial;
+    font-size: 1em;
+    padding-left: 1%;
+}
+ 
+ #section1 p{
+     font-family:Muli,Times New Roman,Arial;
+    font-size: 1.3em;
+    padding-left: 1%;
+}
+ 
+ .icons{
+    text-align: center;
+    padding: 4%;
+    margin-top: 5%;
+    float: right;
+ }
+
+ .fa-linkedin-in, .fa-github, .fa-facebook-f{
+ 	color: #311a1a69;
+ 	
+ 	 }
+ 
+ .fa-linkedin-in:hover{
+ 	color:#673720;
+
+ } 
+
+ .fa-github:hover{
+ 	color:#673720;
+
+ } 
+
+ .fa-facebook-f:hover{
+ 	color:#673720;
+ }
+
+ hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 100%;               
+  background-color:black;
+  height: 1px;
+}
+  
+#section2 #section3 #section4 #section5 h1,h3,h4,p{
+    margin:0;
+    padding:0;
+    font-family:Muli,Times New Roman,Arial;
+
+ 
+}
+
+
+.custom-dates{
+	float: right;
+	display: inline-block;
+	color: brown;
+	 font-weight: bold;
+}

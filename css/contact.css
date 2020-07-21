@@ -1,0 +1,56 @@
+.navbar-nav{
+    float: none;
+    text-align: center;
+    border-radius: 0;
+   
+ }
+
+  .navbar-nav li{
+    display: inline-block;
+    float: none;
+    margin-right:5%;
+    
+}
+
+h1,p {text-align: center;
+	font-family: Muli,Times New Roman,Arial;
+	color: white;
+}
+
+
+.container { text-align: left;
+	background-color: transparent;
+	opacity: .8;
+	width: 40%;
+	padding: 2%;
+}
+
+.custom input{ width :36vw;
+  margin: 1%;
+  border-radius: 5px;
+  height: 7.5vh;
+  font-family: Muli,Times New Roman,Arial;
+
+}
+ textarea { border-radius: 5px;
+            margin: 1%;
+           font-family: Muli,Times New Roman,Arial;
+           width :36vw;
+            height: 30vh;
+            overflow: scroll;
+ }
+
+ .button {
+ 	 width :22vw;
+ 	 border-radius: 5px;
+ 	 margin-left: 20%;
+ 	 height: 10vh;
+
+ }
+
+ body {
+ 	background-image: url('../images/lib.jpg');
+ 	background-repeat: none;
+ 	background-size: cover;
+ }
+
